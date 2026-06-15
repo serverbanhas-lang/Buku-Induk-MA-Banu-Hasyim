@@ -1,0 +1,8 @@
+{
+  "name": "SIBIMA MA BANU HASYIM",
+  "description": "Sistem Buku Induk Madrasah Digital MA Banu Hasyim - Tertib Administrasi, Mudah Akses, Siap Cetak Buku Induk Digital",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
